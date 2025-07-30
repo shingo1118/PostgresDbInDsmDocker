@@ -1,0 +1,2 @@
+# PostgresDbInDsmDocker
+利用群輝NAS的Docker建立Postgres資料庫
